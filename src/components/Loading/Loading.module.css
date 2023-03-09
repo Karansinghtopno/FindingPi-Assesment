@@ -1,0 +1,8 @@
+.loading {
+  display: flex;
+}
+
+.heading {
+  margin-top: 50px;
+  text-align: center;
+}
